@@ -1,1 +1,1 @@
-# OasisInfobyteInternship
+# OIBGRIP
